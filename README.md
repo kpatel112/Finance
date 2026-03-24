@@ -153,10 +153,9 @@ pip install -r requirements.txt
 
 ## 👤 Author
 
-**Your Name**
-- 🎓 MSc Data Science & Analytics
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/yourusername)
+**Kishankumar Patel**
+- 🎓 Master of Data Science & Analytics
+- 💼 [LinkedIn](https://www.linkedin.com/in/kishankumar2910/)
 
 ---
 
